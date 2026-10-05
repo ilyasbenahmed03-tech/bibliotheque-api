@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+email-validator
+python-multipart
+python-dotenv
+sqlalchemy
+alembic
+oracledb
+pyjwt
+pwdlib[argon2]
+pytest
+httpx
